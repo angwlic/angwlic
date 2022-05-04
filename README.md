@@ -23,9 +23,6 @@ Some tools of my current tech stack:
    <a href="https://instagram.com/devilishyouth">
       <img src="https://img.shields.io/badge/-Instagram-BD2A5F?style=flat-square&labelColor=BD2A5F&logo=instagram&logoColor=white">
    </a>
-   <a href="https://linkedin.com/securityn1colas">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
-   </a>
    <a href="https://hackerone.com/wh1sky?type=user">
       <img src="https://img.shields.io/badge/Hackerone-0A0A0A.svg?&style=flat-square&logo=hackerone&logoColor=white">
    </a>
