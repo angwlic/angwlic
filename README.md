@@ -20,7 +20,7 @@ Some tools of my current tech stack:
 <br>
 <div>
 <p> Some of my social networks: </p>
-   <a href="https://instagram.com/devilishyouth">
+   <a href="https://instagram.com/devilgothies">
       <img src="https://img.shields.io/badge/-Instagram-BD2A5F?style=flat-square&labelColor=BD2A5F&logo=instagram&logoColor=white">
    </a>
    <a href="https://hackerone.com/wh1sky?type=user">
@@ -29,7 +29,7 @@ Some tools of my current tech stack:
    <a href="https://steamcommunity.com/id/satanking">
       <img src="https://img.shields.io/badge/Steam-1b2838.svg?&style=flat-square&logo=steam&logoColor=white">
    </a>
-   <a href="https://satanshy.com/xv">
+   <a href="https://satanshy.com">
       <img src="https://img.shields.io/badge/Website-000000.svg?&style=flat-square&logo=wordpress&logoColor=white">
    </a>
 </div>
