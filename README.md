@@ -1,4 +1,4 @@
-<h4><em> Ethical hacker and a software developer, focused on learning and improving my codes to make them as efficient as possible. </em></h4>
+<h4><em> Ethical hacker, Software Developer & Network Engineer, focused on learning and improving my codes to make them as efficient as possible. </em></h4>
 <div align="left">
 Some tools of my current tech stack:
    <h4>Front-End</h4>
